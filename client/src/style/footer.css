@@ -1,0 +1,53 @@
+
+.footer {
+    padding: 20px 0;
+  }
+  
+  .footer-list {
+    padding: 0;
+  }
+  
+  .footer-list li {
+    margin-bottom: 10px;
+  }
+  
+
+  h4{
+    text-transform:uppercase;
+    font-weight:100;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    letter-spacing: 3px;
+  }
+
+  .list-unstyled {
+    list-style-type: none;
+  }
+  
+  .list-unstyled li {
+    margin: 0 10px;
+    
+  }
+  
+  .list-unstyled a {
+    display: inline;
+    text-decoration: none;
+    /* color: #000; */
+  }
+  
+  .instagram {
+    color: #e4405f;
+  }
+  
+  
+  .twitter {
+    color: #1da1f2;
+  }
+  
+  .linkedin {
+    color: #0077b5;
+  }
+  
+  .facebook {
+    color: #1877f2;
+  }
+   

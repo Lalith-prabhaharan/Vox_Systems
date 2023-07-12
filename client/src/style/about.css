@@ -1,0 +1,64 @@
+/* 
+h5{
+  display: block;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  color: black;
+  }
+  
+ 
+
+  .about{
+      display: flex;
+      align-items: center;
+      justify-content: center;
+  }
+   */
+
+
+  @import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+   .row{
+    margin-top:120px;
+  }
+
+  .row img{
+    border-radius: 8px;
+  }
+  
+  
+  .stats-counter {
+      background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../assets/bg.jpg") center center;
+      background-size: cover;
+      padding: 100px 0;
+    }
+    
+    @media (min-width: 1365px) {
+      .stats-counter {
+        background-attachment: fixed;
+      }
+    }
+    
+    .stats-counter .stats-item {
+      padding: 30px;
+      width: 100%;
+    }
+    
+    .stats-counter .stats-item span {
+      font-size: 48px;
+      display: block;
+      color: #fff;
+      font-weight: 700;
+    }
+    
+    .stats-counter .stats-item p {
+      padding: 0;
+      margin: 0;
+      font-family: var(--font-secondary);
+      font-size: 16px;
+      font-weight: 700;
+      color: rgba(255, 255, 255, 0.6);
+    }
+    
+    

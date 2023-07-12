@@ -1,0 +1,38 @@
+.skill {
+    background-color: #f9f9f9;
+    padding: 80px 0;
+  }
+  
+  .skill-bx {
+    text-align: center;
+  }
+  
+  .skill-bx h2 {
+    font-size: 36px;
+    color: #333;
+    margin-top: -90px;
+    margin-bottom: 10px;
+  }
+  
+  .skill-bx p {
+    font-size: 18px;
+    color: #777;
+    margin-bottom: 40px;
+  }
+  
+  .owl-carousel .item {
+    text-align: center;
+  }
+  
+  .owl-carousel .item img {
+    max-width: 200px;
+    margin: 0 auto;
+  }
+  
+  .owl-carousel .item h5 {
+    font-size: 20px;
+    color: #333;
+    margin-top: 20px;
+    margin-bottom: 10px;
+  }
+  
